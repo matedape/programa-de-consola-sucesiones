@@ -1,0 +1,14 @@
+C:\Users\Mateo\source\repos\matematica 2\bin\Debug\net8.0\matematica 2.exe
+C:\Users\Mateo\source\repos\matematica 2\bin\Debug\net8.0\matematica 2.deps.json
+C:\Users\Mateo\source\repos\matematica 2\bin\Debug\net8.0\matematica 2.runtimeconfig.json
+C:\Users\Mateo\source\repos\matematica 2\bin\Debug\net8.0\matematica 2.dll
+C:\Users\Mateo\source\repos\matematica 2\bin\Debug\net8.0\matematica 2.pdb
+C:\Users\Mateo\source\repos\matematica 2\obj\Debug\net8.0\matematica 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateo\source\repos\matematica 2\obj\Debug\net8.0\matematica 2.AssemblyInfoInputs.cache
+C:\Users\Mateo\source\repos\matematica 2\obj\Debug\net8.0\matematica 2.AssemblyInfo.cs
+C:\Users\Mateo\source\repos\matematica 2\obj\Debug\net8.0\matematica 2.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\source\repos\matematica 2\obj\Debug\net8.0\matematica 2.dll
+C:\Users\Mateo\source\repos\matematica 2\obj\Debug\net8.0\refint\matematica 2.dll
+C:\Users\Mateo\source\repos\matematica 2\obj\Debug\net8.0\matematica 2.pdb
+C:\Users\Mateo\source\repos\matematica 2\obj\Debug\net8.0\matematica 2.genruntimeconfig.cache
+C:\Users\Mateo\source\repos\matematica 2\obj\Debug\net8.0\ref\matematica 2.dll
